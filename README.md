@@ -1,6 +1,6 @@
 ### Hello, my name is Ellen Bonafin!How are you? 😀
 
-- 🌱 Nas horas vagas me aperfeiçoando em  html,css e javascript
+- 🌱 Nas horas vagas me aperfeiçoando em  html, css e javascript.
 - 👩‍💻 Cursando ciência da computação 
 ##
  <div>
@@ -20,7 +20,6 @@
   <div> 
   <a href="https://instagram.com/ellenbonafin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5885" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ellencarine41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ellen-carine-bonafin-marques-b43a9a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/EllenBonafin/EllenBonafin/blob/output/github-contribution-grid-snake.svg)
