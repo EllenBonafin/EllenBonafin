@@ -1,5 +1,7 @@
 ### Hello, my name is Ellen Bonafin!How are you? 😀
 - 👩‍💻 Computer science
+- Full Stack
+- Dev InjePro
 ##
  <div>
   <a href=https://github.com/EllenBonafin>
